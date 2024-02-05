@@ -46,7 +46,7 @@
   "devDependencies": {
     "@apify/eslint-config-ts": "^0.1.4",
     "@apify/tsconfig": "^0.1.0",
-    "@types/jest": "^27.0.2",
+    "@types/jest": "^29.5.12",
     "@types/node": "^16.10.1",
     "@typescript-eslint/eslint-plugin": "^4.31.2",
     "basic-auth": "^2.0.1",
