@@ -1,0 +1,16 @@
+{
+	"extends": "@apify/tsconfig",
+	"compilerOptions": {
+		"outDir": "dist",
+		// added for easy testing
+		"noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noImplicitAny": false,
+        "noImplicitThis": false
+	},
+	"include": [
+		"src", "examples/*.ts"
+	]
+}
